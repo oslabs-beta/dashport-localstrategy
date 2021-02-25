@@ -1,4 +1,4 @@
-import { OakContext, UserProfile } from '../types.ts';
+import { OakContext, UserProfile } from './types.ts';
 
 /**
  * Creates an instance of a local strategy.
