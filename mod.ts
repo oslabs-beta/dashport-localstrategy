@@ -1,3 +1,2 @@
-import Dashport from './lib/dashport.ts';
-import LocalStrategy from './localStrategy';
+import LocalStrategy from './localStrategy.ts';
 export default LocalStrategy;
